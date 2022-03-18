@@ -20,6 +20,7 @@ const brainEven = () => {
       counter += 1;
     } else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was 'yes'`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
   }
@@ -30,6 +31,7 @@ const brainEven = () => {
       counter += 1;
     } else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was 'no'`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
   }
