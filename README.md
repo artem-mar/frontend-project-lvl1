@@ -9,3 +9,4 @@
 
 Install + Brain-even: https://asciinema.org/a/5d1za2bpQRn10p8AKTY2gyWhW
 Brain-calc: https://asciinema.org/a/j3PTBztMxVZLEuhboREdWQzo7
+Brain-gcd: https://asciinema.org/a/H5DiVMvH81P6tE5AUKQGDWvvF
