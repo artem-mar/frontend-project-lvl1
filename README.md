@@ -7,4 +7,5 @@
 
 [![node CI](https://github.com/artem-mar/frontend-project-lvl1/actions/workflows/nodejs.yaml/badge.svg)](https://github.com/artem-mar/frontend-project-lvl1/actions/workflows/nodejs.yaml)
 
-https://asciinema.org/a/5d1za2bpQRn10p8AKTY2gyWhW
+Install + Brain-even: https://asciinema.org/a/5d1za2bpQRn10p8AKTY2gyWhW
+Brain-calc:
