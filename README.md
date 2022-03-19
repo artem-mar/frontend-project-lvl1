@@ -13,3 +13,5 @@
 
 <a href = "https://asciinema.org/a/H5DiVMvH81P6tE5AUKQGDWvvF">Brain-gcd</a><br>
 
+<a href = "https://asciinema.org/a/yw3ZqknnrALL6NPasI27LVMCc">Brain-progression</a><br>
+
