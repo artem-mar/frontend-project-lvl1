@@ -43,6 +43,6 @@ export const gameLauncher = (name, gameRules, reloader) => {
     }
   }
   if (counter === 3) {
-    console.log(`Congratulations, ${name}`);
+    console.log(`Congratulations, ${name}!`);
   }
 };
