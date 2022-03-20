@@ -1,6 +1,6 @@
 import gameLauncher from '../index.js';
 import getRandomInt from '../getRandomInt.js';
-import greeting from '../greeting.js';
+import greeting from '../cli.js';
 
 export default () => {
   const description = 'Find the greatest common divisor of given numbers.';

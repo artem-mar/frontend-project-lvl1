@@ -1,6 +1,6 @@
 import gameLauncher from '../index.js';
 import getRandomInt from '../getRandomInt.js';
-import greeting from '../greeting.js';
+import greeting from '../cli.js';
 
 export default () => {
   const description = 'What number is missing in the progression?';
