@@ -15,3 +15,6 @@
 
 <a href = "https://asciinema.org/a/yw3ZqknnrALL6NPasI27LVMCc">Brain-progression</a><br>
 
+<a href = "https://asciinema.org/a/48vpNlmKeSrPxNTlorBgbq17O">Brain-prime</a>
+
+

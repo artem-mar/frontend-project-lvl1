@@ -23,7 +23,7 @@ export const playGame = (question, check, correctAnswer) => {
     result = true;
   } else {
     console.log(
-      `${userAnswer} is wrong answer ;( Correct answer was ${correctAnswer}`,
+      `"${userAnswer}" is wrong answer ;( Correct answer was "${correctAnswer}"`,
     );
     result = false;
   }
