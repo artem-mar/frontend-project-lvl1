@@ -1,4 +1,6 @@
-import { getRandomInt, greeting, gameLauncher } from '../index.js';
+import gameLauncher from '../index.js';
+import getRandomInt from '../getRandomInt.js';
+import greeting from '../greeting.js';
 
 export default () => {
   const description = 'Answer "yes" if the number is even, otherwise answer "no".';
