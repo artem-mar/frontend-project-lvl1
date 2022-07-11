@@ -1,20 +1,16 @@
 ### Hexlet tests and linter status:
 
-[![Actions Status](https://github.com/artem-mar/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/artem-mar/frontend-project-lvl1/actions)
-
-
-<a href="https://codeclimate.com/github/artem-mar/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/560877492d2b97f622d9/maintainability" /></a>
-
+[![Actions Status](https://github.com/artem-mar/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/artem-mar/frontend-project-lvl1/actions)  
+<a href="https://codeclimate.com/github/artem-mar/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/560877492d2b97f622d9/maintainability" /></a>  
 [![node CI](https://github.com/artem-mar/frontend-project-lvl1/actions/workflows/nodejs.yaml/badge.svg)](https://github.com/artem-mar/frontend-project-lvl1/actions/workflows/nodejs.yaml)
 
-<a href = "https://asciinema.org/a/5d1za2bpQRn10p8AKTY2gyWhW">Install + Brain-even</a><br>
+Brain-games - набор из пяти консольных математических игр.  
+Каждая игра задает вопросы, на которые нужно дать правильные ответы.
 
-<a href = "https://asciinema.org/a/j3PTBztMxVZLEuhboREdWQzo7">Brain-calc</a><br>
-
-<a href = "https://asciinema.org/a/H5DiVMvH81P6tE5AUKQGDWvvF">Brain-gcd</a><br>
-
-<a href = "https://asciinema.org/a/yw3ZqknnrALL6NPasI27LVMCc">Brain-progression</a><br>
-
-<a href = "https://asciinema.org/a/48vpNlmKeSrPxNTlorBgbq17O">Brain-prime</a>
+[![brain-even](https://asciinema.org/a/NWQ8I9aJBE0TkYv7cBho3xhW4.svg)](https://asciinema.org/a/NWQ8I9aJBE0TkYv7cBho3xhW4)  
+[![brain-calc](https://asciinema.org/a/8MVjbAitGWs9F2ZNMf4gIivvy.svg)](https://asciinema.org/a/8MVjbAitGWs9F2ZNMf4gIivvy)  
+[![brain-gcd](https://asciinema.org/a/8wd94C8SVQLi69FvfoslvAjoj.svg)](https://asciinema.org/a/8wd94C8SVQLi69FvfoslvAjoj)  
+[![brain-progression](https://asciinema.org/a/NyKn8J5jXvPyABIvuJ9q0u5te.svg)](https://asciinema.org/a/NyKn8J5jXvPyABIvuJ9q0u5te)  
+[![brain-prime](https://asciinema.org/a/gWJL4NB2B2TIFDf2uY28GU7Oj.svg)](https://asciinema.org/a/gWJL4NB2B2TIFDf2uY28GU7Oj)
 
 
